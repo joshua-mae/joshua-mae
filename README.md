@@ -1,6 +1,6 @@
 :space_invader: Hello, I am Joshua Mae!
 
-I am a student at MSU studying CS looking for an internship/research opportunity for Summer 2023.
+I am a student at MSU studying CS looking for an internship/research opportunity for Summer 2024.
 
 ## More about me
 - :book: I like to read.
