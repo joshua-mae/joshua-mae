@@ -3,7 +3,6 @@
 I am a student at MSU studying CS looking for an internship/research opportunity for Summer 2024.
 
 ![Josh's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-mae&theme=tokyonight)
-![Josh's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshua-mae&theme=tokyonight)
 
 ## More about me
 - :book: I like to read.
