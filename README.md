@@ -1,7 +1,7 @@
 :space_invader: Hello, I am Joshua Mae!
 
 I am a student at MSU studying CS looking for an internship/research opportunity for Summer 2024. </br>
-My main focus is Swift and iOS.  I hope to continue learning about mobile and apple frameworks.
+My main focus is Swift and iOS.  I hope to continue learning about mobile and Apple frameworks.
 
 ![Josh's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-mae&theme=tokyonight)
 
