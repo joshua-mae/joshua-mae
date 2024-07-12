@@ -1,8 +1,6 @@
 :space_invader: Hello, I am Joshua Mae!
 
-Aspiring professional mobile developer with experience in iOS and Android.
-
-![Josh's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-mae&theme=tokyonight)
+Aspiring professional mobile developer.
 
 ## More about me
 - :book: I like to read.
