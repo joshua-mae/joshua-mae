@@ -1,6 +1,7 @@
-:space_invader: Hello, I am Joshua Mae!
+### :space_invader: Hello, I am Joshua Mae!
 
-Aspiring professional mobile developer.
+## Future Plans
+Aspiring professional mobile developer
 
 ## More about me
 - :book: I like to read.
